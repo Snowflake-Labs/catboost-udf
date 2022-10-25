@@ -1,0 +1,11 @@
+name: catboost_snowpark
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - conda-forge
+dependencies:
+  - python=3.8
+  - snowflake-snowpark-python
+  - pandas
+  - catboost
+  # development
+  - pylint
