@@ -57,7 +57,7 @@ However, feel free to raise a github issue if you find a bug or would like a new
 
 # license
 
-Copyright 2022 Duncan Turnbull
+Copyright 2022 Snowflake Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
