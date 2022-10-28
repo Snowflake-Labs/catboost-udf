@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*.log
+tmp/
+.dir-locals.el
+.envrc
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+config.py
+catboost_model_export.py
+catboost_info
