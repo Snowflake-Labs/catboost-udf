@@ -19,6 +19,10 @@ Please describe:
  - what you have tried so far, and where you were unable to continue
  
  If you've been able to make your enhancement already, please fork this repository, make your changes and submit a pull request along with your issue.
+ 
+# Pull Requests and Contributing Code
+
+In order to merge your code you will need to agree to the [contributor license agreement](https://github.com/Snowflake-Labs/CLA).
 
 
  
